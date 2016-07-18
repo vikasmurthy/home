@@ -1,0 +1,16 @@
+{
+  "name": "home",
+  "description": "Home Automation",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
