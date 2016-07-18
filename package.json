@@ -1,0 +1,19 @@
+{
+  "name": "home",
+  "version": "1.0.0",
+  "description": "Home automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikasmurthy/home.git"
+  },
+  "author": "Vikas Murthy <vikas@julysystems.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/vikasmurthy/home/issues"
+  },
+  "homepage": "https://github.com/vikasmurthy/home#readme"
+}
